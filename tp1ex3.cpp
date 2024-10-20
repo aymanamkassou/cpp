@@ -203,8 +203,8 @@ int main() {
     account_manager manager;
 
    
-    account* account1 = new account(1, "Alice");
-    account* account2 = new account(2, "Bob");
+    account* account1 = new account(1, "Ali");
+    account* account2 = new account(2, "Jamal");
 
     
     account1->add_currency(usd);
